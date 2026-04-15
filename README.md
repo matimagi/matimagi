@@ -1,9 +1,9 @@
 ## Hi there, my name is Mati.
 This is my portfolio where you can find some projects I have worked on.
 
-🔭 I’m currently working on data analytics course to pivot to data analyst roles.
-🌱 I’m currently learning Power BI, SQL and Python.
-📫 How to reach me: mmagioma@gmail.com
+-🔭 I’m currently working on data analytics course to pivot to data analyst roles.
+-🌱 I’m currently learning Power BI, SQL and Python.
+-📫 How to reach me: mmagioma@gmail.com
 
 <!--
 **matimagi/matimagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
